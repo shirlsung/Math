@@ -1,0 +1,7 @@
+c:\users\shaol\source\repos\Math\Math\bin\Debug\Math.exe.config
+c:\users\shaol\source\repos\Math\Math\bin\Debug\Math.exe
+c:\users\shaol\source\repos\Math\Math\bin\Debug\Math.pdb
+c:\users\shaol\source\repos\Math\Math\obj\Debug\Math.csprojAssemblyReference.cache
+c:\users\shaol\source\repos\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+c:\users\shaol\source\repos\Math\Math\obj\Debug\Math.exe
+c:\users\shaol\source\repos\Math\Math\obj\Debug\Math.pdb
